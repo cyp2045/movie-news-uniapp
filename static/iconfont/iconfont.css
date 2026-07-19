@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5185868 */
+  src: url('iconfont.woff2?t=1782057259979') format('woff2'),
+       url('iconfont.woff?t=1782057259979') format('woff'),
+       url('iconfont.ttf?t=1782057259979') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qiandao:before {
+  content: "\e642";
+}
+
+.icon-lishijilu:before {
+  content: "\eaf7";
+}
+
+.icon-bofang:before {
+  content: "\e667";
+}
+
+.icon-huiyuan:before {
+  content: "\e8c6";
+}
+
+.icon-qiehuanzhanghu:before {
+  content: "\e627";
+}
+
+.icon-shoucang:before {
+  content: "\e629";
+}
+
+.icon-shezhi:before {
+  content: "\e646";
+}
+
+.icon-caidan:before {
+  content: "\e612";
+}
+
+.icon-sousuo:before {
+  content: "\e628";
+}
+
+.icon-jiaqileixing:before {
+  content: "\e626";
+}
+
+.icon-leixing:before {
+  content: "\e617";
+}
+
+.icon-dianyingpiao:before {
+  content: "\e8c4";
+}
+
+.icon-dianying:before {
+  content: "\e8c5";
+}
+
+.icon-beijianleixing-:before {
+  content: "\e641";
+}
+

@@ -1,0 +1,107 @@
+{
+  "id": "5185868",
+  "name": "excise-uniapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2811150",
+      "name": "签到",
+      "font_class": "qiandao",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "5387536",
+      "name": "历史记录",
+      "font_class": "lishijilu",
+      "unicode": "eaf7",
+      "unicode_decimal": 60151
+    },
+    {
+      "icon_id": "6536736",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "11372767",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    },
+    {
+      "icon_id": "15123744",
+      "name": "切换账户",
+      "font_class": "qiehuanzhanghu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "19954256",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "21237442",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "887801",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2154961",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1969478",
+      "name": "假期类型",
+      "font_class": "jiaqileixing",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "10352319",
+      "name": "类型",
+      "font_class": "leixing",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "11372761",
+      "name": "电影票",
+      "font_class": "dianyingpiao",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "11372788",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e8c5",
+      "unicode_decimal": 59589
+    },
+    {
+      "icon_id": "13251670",
+      "name": "备件类型-01",
+      "font_class": "beijianleixing-",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
